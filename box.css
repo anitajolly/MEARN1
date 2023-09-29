@@ -1,0 +1,14 @@
+div{
+    background-color: black;
+    height: 200px;
+    width:300px;
+    margin-left: 473px;
+    margin-top: 200px;
+    /*padding-left: 30px */
+    padding: 20px;
+    border: 3px red solid;
+    border-radius: 50px;
+}
+p{
+    color:white;
+}
